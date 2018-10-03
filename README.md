@@ -1,1 +1,2 @@
-# CE-4302-TallerOpeMP
+# CE-4302-TallerOpenMP_NEON
+
